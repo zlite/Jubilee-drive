@@ -4,7 +4,9 @@ The two are shown side-by-side here. The original design is on top, the cost-dow
 ![comparison](comparison.jpg)
 
 **BOM:**
+
 -- [Linear stepper motor ($14)](https://www.omc-stepperonline.com/25-2x15mm-pm-captive-linear-stepper-motor-0-5a-lead-1-22mm-0-048-travel-13-5mm-25ln48l01-334)
+
 -- [Pipette (any size in the OniLAB line will work - $25)](https://amzn.to/4dsVi8A)
 
 **Instructions**
