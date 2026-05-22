@@ -1,4 +1,4 @@
-Low-cost pipette drive for the Jubilee lab automation frame, with a BOM of less than $40. It's an alterative to [this design](https://github.com/RicktheF22Raptor/jubilee-3D-Automatic-pipette-tool-), which has a BOM of around $300.
+This is a low-cost pipette drive for the Jubilee lab automation frame, with a BOM of less than $40. It's an alternative to [this design](https://github.com/RicktheF22Raptor/jubilee-3D-Automatic-pipette-tool-), which has a BOM of around $300, which annoyed me ;-)
 
 The two are shown side-by-side here. The original design is on top, the cost-down redesign is below
 ![comparison](comparison.jpg)
