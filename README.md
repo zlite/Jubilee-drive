@@ -32,4 +32,4 @@ Print out the two 3D-printed parts: [body](body.stl) and [connector](connector.s
 Screw the connector onto the end of the stepper and insert it into the piston tube, squeezing the split part, until it clicks into the holes
 ![assembly6](assembly6.jpg)
 
-Screw the stepper into the holes at top and screw in as well as the limit switch if you're using one and insert all the other parts as shown.
+Screw the stepper into the holes at top as well as the limit switch (if used) with M2 self-tapping screws and insert all the other parts as shown.
