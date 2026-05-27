@@ -7,7 +7,9 @@ The two are shown side-by-side here. The original design is on top, the cost-dow
 
 -- [Linear stepper motor ($14)](https://www.omc-stepperonline.com/25-2x15mm-pm-captive-linear-stepper-motor-0-5a-lead-1-22mm-0-048-travel-13-5mm-25ln48l01-334)
 
--- [Pipette (any size in the OniLAB line will work - $25)](https://amzn.to/4dsVi8A)
+-- [Pipette (100-1000ul recommended - $25)](https://amzn.to/4dsVi8A)
+
+-- [limit switch (optional)](https://amzn.to/3PLHGNV)
 
 **Instructions**
 
@@ -16,18 +18,18 @@ Use the included tool with the pipette to unscrew the top and bottom as shown he
 ![assembly1](assembly1.jpg)
 ![assembly2](assembly2.jpg)
 
-Then use a small screwdriver to lift the latch on the tip ejector rod, so you can pull out the tip
+Then use the tool to lift the latch on the tip ejector rod, so you can pull out the tip
 ![assembly3](assembly3.jpg)
 
 You will end up with these parts:
 ![assembly5](assembly5.jpg)
 
-Cut about 15mm off the top of the piston tube as shown here:
+Cut off the top of the piston tube, about 10mm up from the step, as shown here:
 ![assembly4](assembly4.jpg)
 
 Print out the two 3D-printed parts: [body](body.stl) and [connector](connector.stl).
 
-Screw the connector onto the end of the stepper and insert it into the piston tube until it clicks into the holes
+Screw the connector onto the end of the stepper and insert it into the piston tube, squeezing the split part, until it clicks into the holes
 ![assembly6](assembly6.jpg)
 
-Screw the stepper into the holes at top and screw in and insert all the other parts as shown
+Screw the stepper into the holes at top and screw in as well as the limit switch if you're using one and insert all the other parts as shown.
