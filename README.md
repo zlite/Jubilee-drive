@@ -7,7 +7,7 @@ The two are shown side-by-side here. The original design is on top, the cost-dow
 
 -- [Linear stepper motor ($14)](https://www.omc-stepperonline.com/25-2x15mm-pm-captive-linear-stepper-motor-0-5a-lead-1-22mm-0-048-travel-13-5mm-25ln48l01-334)
 
--- [Pipette (100-1000ul recommended - $25)](https://amzn.to/4dsVi8A)
+-- [Pipette (100-1000ul recommended - $25)](https://amzn.to/3Q2XR9Q)
 
 -- [limit switch (optional)](https://amzn.to/3PLHGNV)
 
