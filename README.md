@@ -13,13 +13,16 @@ The two are shown side-by-side here. The original design is on top, the cost-dow
 
 **Instructions**
 
-Use the included tool with the pipette to unscrew the top and bottom as shown here:
-
+Use the included tool with the pipette to unscrew the top:
 ![assembly1](assembly1.jpg)
+
+Use the tool to lift the latch on the tip ejector rod, so you can pull out the tip
+![assembly3](assembly3.jpg)
+
+Use the other side of the tool to unscrew the bottom:
 ![assembly2](assembly2.jpg)
 
-Then use the tool to lift the latch on the tip ejector rod, so you can pull out the tip
-![assembly3](assembly3.jpg)
+
 
 You will end up with these parts:
 ![assembly5](assembly5.jpg)
