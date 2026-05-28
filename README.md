@@ -29,7 +29,7 @@ Cut off the top of the piston tube, about 10mm up from the step, as shown here:
 
 Print out the two 3D-printed parts: [body](body.stl) and [connector](connector.stl).
 
-Screw the connector onto the end of the stepper and insert it into the piston tube, squeezing the split part, until it clicks into the holes
+Screw the connector onto the end of the stepper (push it in hard while turning so the the threads grab) and insert it into the piston tube, squeezing the split part, until it clicks into the holes
 ![assembly6](assembly6.jpg)
 
-Screw the stepper into the holes at top as well as the limit switch (if used) with M2 self-tapping screws and insert all the other parts as shown above.
+Screw the stepper motor into the holes at top as well as the limit switch (if used) with M2 self-tapping screws and insert all the other parts as shown above.
